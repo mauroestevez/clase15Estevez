@@ -1,0 +1,21 @@
+
+
+/* Asignamos algunos estilos basicos con CSS para mostrar que funciona. En proximas entregas los prefeccionaremos */
+
+
+
+p{
+    color: white;
+}
+
+header{
+    background-color: black;
+}
+
+body{
+    background-color: black;
+}
+
+footer{
+    background-color: black;
+}
